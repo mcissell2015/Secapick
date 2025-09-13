@@ -1,4 +1,4 @@
-[![logo.png](https://i.postimg.cc/zf0s4kn6/logo.png)](https://postimg.cc/DW4pXLpP){:width="300px"}
+[![logo.png](https://i.postimg.cc/zf0s4kn6/logo.png)](https://postimg.cc/DW4pXLpP)
 Meet **Secapick!** This app couts Seconds after you open it!
 
 But to make it a executable First click Win + R and type Cmd and click enter
